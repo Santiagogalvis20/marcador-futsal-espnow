@@ -57,7 +57,7 @@ Se recomienda limitar el brillo de los LEDs al 50 % o menos.
 
 ## Licencia
 
-[Elegir una, por ejemplo MIT]
+MIT
 
 ## Autor
 
